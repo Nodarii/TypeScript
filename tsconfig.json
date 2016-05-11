@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "module": "commonJs",
+    "sourceMap": true,
+    "target": "es6"
+  }
+}
